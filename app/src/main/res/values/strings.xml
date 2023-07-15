@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentAssignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="Hello">Hello</string>
+    <string name="text">name</string>
+    <string name="user">user</string>
+    <string name="clear">clear</string>
+</resources>
