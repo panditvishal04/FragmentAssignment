@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
             }
             else
             {
-                fragmentInterface.changeFragmentText()
+                fragmentInterface.changeFragmentText(binding.etName.text.toString())
 
             }
         }

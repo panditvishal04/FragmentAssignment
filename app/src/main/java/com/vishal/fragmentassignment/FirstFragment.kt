@@ -78,9 +78,11 @@ private const val ARG_PARAM2 = "param2"
             }
     }
 
-    override fun changeFragmentText() {
-        fragmentActivity.binding.etName.text.toString().also { tvView.text = it }
+    override fun changeFragmentText(string: String) {
+        tvView.text = string
+
     }
+
 
 
     override fun plus() {
